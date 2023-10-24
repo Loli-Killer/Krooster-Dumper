@@ -1,0 +1,13 @@
+# Generated files
+new_operator_list.json
+new_planner.json
+
+# Session files
+session/*
+.env
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
